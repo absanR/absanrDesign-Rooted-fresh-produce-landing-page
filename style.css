@@ -169,6 +169,9 @@ a {
 }
 
 /*Servicios*/
+.Frases-friends {
+    display: block;
+}
 .services {
     background-color: rgb(255, 255, 255);
     padding: 80px 0;

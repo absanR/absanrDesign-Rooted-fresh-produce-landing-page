@@ -493,6 +493,10 @@ footer a:hover {
     .article .container > .tittle-info-article {
         min-width: 100%;
     }
+
+    .container > .tittle-info-article {
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: 630px){

@@ -104,7 +104,7 @@ a {
     background-position: bottom right;
     background-repeat: no-repeat;
 }
-.menu .bnt-sign-in, #btn-banner {
+.bnt-sign-in, #btn-banner {
     padding: 15px 30px;
     border-radius: 25% / 50%;
     -webkit-border-radius: 25% / 50%;
@@ -117,7 +117,7 @@ a {
     font-weight: bold;
 }
 
-.menu .bnt-sign-in:hover {
+.bnt-sign-in:hover {
     background-image: -webkit-linear-gradient(9deg, rgb(241, 150, 65), rgb(245, 52, 4));
 }
 
